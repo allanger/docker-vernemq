@@ -11,4 +11,14 @@ entries:
     urls:
     - https://github.com/allanger/docker-vernemq/releases/download/vernemq-1.9.6/vernemq-1.9.6.tgz
     version: 1.9.6
-generated: "2023-09-19T11:30:04.642414615Z"
+  - apiVersion: v1
+    appVersion: 1.13.0
+    created: "2023-09-19T16:00:15.009791976Z"
+    description: VerneMQ is a high-performance, distributed MQTT message broker
+    digest: 5c2d2a0361f3351d79eabdcc059a2237fabb41b6575882cbb90e303dbdb1b093
+    icon: http://www.stickpng.com/assets/thumbs/58482b21cef1014c0b5e4a24.png
+    name: vernemq
+    urls:
+    - https://github.com/allanger/docker-vernemq/releases/download/vernemq-1.9.0/vernemq-1.9.0.tgz
+    version: 1.9.0
+generated: "2023-09-19T16:00:15.009798976Z"
