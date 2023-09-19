@@ -43,5 +43,6 @@ jobs:
         uses: helm/chart-releaser-action@v1.5.0
         with:
           charts_dir: helm
+          pages_branch: vernemq-helm-repo
         env:
           CR_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
